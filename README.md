@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<!--
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodl1203)](https://solved.ac/wodl1203/)
+
 **zaysverse/zaysverse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
