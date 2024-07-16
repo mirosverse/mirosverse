@@ -1,13 +1,26 @@
-# 🍮
+<div align="center">
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodl1203)](https://solved.ac/wodl1203/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaysverse&hide=contribs,prs&show_icons=true&theme=테마)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=C8ACD6&text=Miro's%20Github&fontColor=C8ACD6"/>
 
-
+## ☀️ Github ✈️
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaysverse)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zaysverse&hide=contribs,prs&show_icons=true&theme=graywhite)
 
 
+## 🏅Ranking 🏅
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wodl1203)](https://solved.ac/wodl1203/)
+
+
+## 📞 Contact 📞
+<div style="display:flex; flex-direction:row;">
+    <a href="https://www.instagram.com/zzzzz_ei/">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
+    </a>
+    <a href="mailto:wodl1203@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
+</div><br>
 
 ## :hammer: Once I've used :hammer:
 <div style="display:flex; flex-direction:row;">
@@ -40,3 +53,4 @@
     <img src="https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515">
   
 </div><br>
+</div>
